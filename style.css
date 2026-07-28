@@ -1,0 +1,121 @@
+html {
+  height: 100%;
+  width: 100%;
+  
+} 
+  #div_1{
+    border: 2px solid;
+    border-radius: 7%;
+    font-family:arial;
+    background-color:#F0F8FF;
+  }
+  #h1_apresentação_johnny{
+    text-align:center;
+    border-radius: ;
+    border: 1px solid;
+  background-color:#C0C0C0;
+  }
+  #p_comprimentos{
+  background-color: #DCDCDC;
+  }
+  #p_começo_convite{
+    background-color:#DCDCDC;
+  }
+  #p_convencendo_johnny{
+    background-color:#DCDCDC;
+  }
+  #p_termino_carta{
+    background-color:#DCDCDC;
+  }
+  #p_finalizaçao_carta{
+    background-color:#DCDCDC;
+  }
+  #div_2{
+    font-family:arial;
+    border: 2px solid;
+    border-radius: 7%;
+  background-color:#F0F8FF;
+  }
+  #h1_apresentaçao_fabio{
+    text-align:center;
+    border: 1px solid;
+    border-radius: ;
+    background-color:#C0C0C0;
+  }
+  #p_comprimento_fabio{
+    background-color:#DCDCDC;
+  }
+  #p_introduçao_convite{
+    background-color:#DCDCDC;
+  }
+  #p_meio_carta{
+    background-color:#DCDCDC;
+  }
+  #p_equipamentos{
+    background-color:#DCDCDC;
+  }
+  #p_assinatura{
+    background-color:#DCDCDC;
+  }
+  #div_3{
+    font-family: arial;
+    border: 2px solid;
+    border-radius: 7%;
+    background-color:#F0F8FF;
+  }
+  #h1_apresentaçao{
+    text-align:center;
+    border: 1px solid;
+    border-radius: ;
+    background-color:#C0C0C0;
+  }
+  #p_comprimento{
+    background-color:#DCDCDC;
+  }
+  #p_introduçao{
+    background-color:#DCDCDC;
+  }
+  #p_convencendo{
+    background-color:#DCDCDC;
+  }
+  #p_finalizaçao{
+    background-color:#DCDCDC;
+  }
+
+body{
+  background-color:#F5F5F5;
+  width: 500px;
+  margin: 50px;
+  padding: 5px;
+}
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-items: center;
+}
+.box {
+  width: 400px;
+  heigth: 600px;
+  margin: 10px;
+}
+.box: nth-child(3) {
+  grid-column: 2;
+  grid-row: 1;
+}
+#google{
+ border: 7px solid;
+  border-color: blue;
+}
+#youtube{
+  border: 7px solid;
+  border-color: blue;
+}
+#alura{
+  border: 7px solid;
+  border-color: blue;
+}
+#gmail{
+  border: 7px solid;
+  border-color: blue;
+}
+  
